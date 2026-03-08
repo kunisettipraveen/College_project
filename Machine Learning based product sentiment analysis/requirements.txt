@@ -6,5 +6,4 @@ nltk
 matplotlib
 seaborn
 plotly
-wordcloud
 Pillow
